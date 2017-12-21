@@ -4,4 +4,4 @@ Template for react-native to base an app in Swift.
 
 # Usage
 
-`react-native init [projectname] react-native-template-swift
+`react-native init [projectname] --template swift
