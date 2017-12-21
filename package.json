@@ -1,0 +1,19 @@
+{
+  "name": "react-native-template-swift",
+  "version": "1.0.0",
+  "description": "Template package for basing a react-native app in swift",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhdeck/react-native-template-swift.git"
+  },
+  "author": "Ray Deck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhdeck/react-native-template-swift/issues"
+  },
+  "homepage": "https://github.com/rhdeck/react-native-template-swift#readme"
+}
