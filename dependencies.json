@@ -1,6 +1,6 @@
 {
   "react-native-swift-base": "rhdeck/react-native-swift-base",
   "react-native-swift-registry": "rhdeck/react-native-swift-registry",
-  "react-native-swift": "*",
+  "react-native-swift": "rhdeck/react-native-swift",
   "react-native-fix-ios-version": "*"
 }
